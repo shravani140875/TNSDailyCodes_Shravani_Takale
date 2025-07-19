@@ -52,7 +52,7 @@ public class Main{
 			case 3:
 				 System.out.print("Enter credit card amount: ");
 	                double amount3 = sc.nextDouble();
-	                sc.nextLine(); // consume leftover newline
+	                sc.nextLine(); 
 	                System.out.print("Enter type of credit card: ");
 	                String creditCard = sc.nextLine();
 	                System.out.print("Enter credit card holder name: ");
